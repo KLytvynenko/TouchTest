@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickTest", "ClickTest\ClickTest.csproj", "{EE398183-0366-4064-B8AD-E6C8E04844AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Release|iPhone.Build.0 = Release|iPhone
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EE398183-0366-4064-B8AD-E6C8E04844AA}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
